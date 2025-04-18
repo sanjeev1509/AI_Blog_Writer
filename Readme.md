@@ -28,8 +28,8 @@ pip install -r requirements.txt
 
 ## Make env file as
 
-GEMINI_API_KEY=your_gemini_api_key_here
-NEWSDATA_API_KEY=your_newsdata_api_key_here
+1. GEMINI_API_KEY=your_gemini_api_key_here
+2. NEWSDATA_API_KEY=your_newsdata_api_key_here
 
 ## Example CLI Usage
 
